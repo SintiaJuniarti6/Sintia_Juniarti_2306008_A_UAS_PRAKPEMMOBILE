@@ -6,7 +6,7 @@
 |------------|-----|
 | **Nama** | Sintia Juniarti |
 | **NIM** | 2306008 |
-| **Kelas** | *(Isi kelas di sini)* |
+| **Kelas** | A |
 | **Mata Kuliah** | Praktikum Pemrograman Mobile |
 | **Tahun Akademik** | 2025/2026 |
 
