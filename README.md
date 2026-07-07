@@ -187,8 +187,6 @@ flutter run
 
 # 👥 Akun Testing
 
-# 👥 Akun Testing
-
 Aplikasi ini tidak menyediakan akun admin karena seluruh fitur yang diimplementasikan berfokus pada sisi **pengguna (customer)**.
 
 Untuk melakukan pengujian aplikasi:
