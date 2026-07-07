@@ -187,10 +187,17 @@ flutter run
 
 # 👥 Akun Testing
 
-| Role | Email | Password |
-|------|-------|----------|
-| Customer | Daftar melalui halaman Register | - |
-| Admin | admin@admin.com | admin123 |
+# 👥 Akun Testing
+
+Aplikasi ini tidak menyediakan akun admin karena seluruh fitur yang diimplementasikan berfokus pada sisi **pengguna (customer)**.
+
+Untuk melakukan pengujian aplikasi:
+
+1. Jalankan backend dan frontend.
+2. Buka halaman **Register**.
+3. Buat akun baru menggunakan nama, email, dan password.
+4. Login menggunakan akun yang telah didaftarkan.
+5. Seluruh fitur seperti katalog produk, keranjang, checkout, riwayat pesanan, wishlist, dan profil dapat langsung digunakan menggunakan akun tersebut.
 
 ---
 
