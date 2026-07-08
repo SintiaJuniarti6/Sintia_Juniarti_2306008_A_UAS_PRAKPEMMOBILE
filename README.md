@@ -1,4 +1,4 @@
-# 🛒 E-Commerce App — UAS Praktikum Pemrograman Mobile
+<img width="626" height="1078" alt="image" src="https://github.com/user-attachments/assets/7a8b31b8-8fae-435f-b954-5981d1945fd6" /># 🛒 E-Commerce App — UAS Praktikum Pemrograman Mobile
 
 ## 👤 Identitas
 
@@ -200,6 +200,8 @@ Untuk melakukan pengujian aplikasi:
 ---
 
 # 📸 Screenshot Aplikasi
+<img width="626" height="1078" alt="image" src="https://github.com/user-attachments/assets/c1c1636f-0d56-4ebc-a0cf-ca7585eab7e2" />
+
 
 Tambahkan screenshot minimal:
 
