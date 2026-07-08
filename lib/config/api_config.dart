@@ -1,16 +1,15 @@
 class ApiConfig {
   // ============================================
-  // GANTI baseUrl DI BAWAH SESUAI TARGET TESTING
+  // VERSI: TESTING LOKAL (pakai laptop + HP di WiFi yang sama)
+  // Gunakan file ini SELAMA proses development & demo pribadi
   // ============================================
 
-  // Untuk testing di Chrome (localhost) - development lokal:
+  // AKTIF: testing di HP fisik via IP lokal WiFi
+  // Cek ulang pakai `ipconfig` di CMD kalau WiFi restart / IP berubah
+  static const String baseUrl = 'http://192.168.1.12:3000/api';
+
+  // Untuk testing di Chrome (localhost) — nonaktif:
   // static const String baseUrl = 'http://localhost:3000/api';
-
-  // Untuk testing di HP fisik via WiFi yang sama:
-  // static const String baseUrl = 'http://192.168.100.24:3000/api';
-
-  // AKTIF SEKARANG: server online dosen (WAJIB untuk build APK final/submission)
-  static const String baseUrl = 'https://api-tb-f2wk.onrender.com/api';
 
   // ============================================
 
