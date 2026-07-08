@@ -1,4 +1,4 @@
-<img width="626" height="1078" alt="image" src="https://github.com/user-attachments/assets/7a8b31b8-8fae-435f-b954-5981d1945fd6" /># 🛒 E-Commerce App — UAS Praktikum Pemrograman Mobile
+# 🛒 E-Commerce App — UAS Praktikum Pemrograman Mobile
 
 ## 👤 Identitas
 
