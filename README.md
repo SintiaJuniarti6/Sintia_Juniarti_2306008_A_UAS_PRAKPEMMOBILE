@@ -200,7 +200,12 @@ Untuk melakukan pengujian aplikasi:
 ---
 
 # 📸 Screenshot Aplikasi
-<img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/c1c1636f-0d56-4ebc-a0cf-ca7585eab7e2" />
+<img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/c1c1636f-0d56-4ebc-a0cf-ca7585eab7e2" />
+<img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/5c7b676d-adcd-4810-bd72-65cc66b2be4a" />
+<img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/b70f1364-a291-4105-b202-399b059bb8e1" />
+<img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/d4f3a321-c8ec-474e-9a43-c347febfcc25" />
+
+
 
 
 
