@@ -202,8 +202,19 @@ Untuk melakukan pengujian aplikasi:
 # 📸 Screenshot Aplikasi
 <img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/c1c1636f-0d56-4ebc-a0cf-ca7585eab7e2" />
 <img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/5c7b676d-adcd-4810-bd72-65cc66b2be4a" />
-<img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/b70f1364-a291-4105-b202-399b059bb8e1" />
+<img width="100" height="400" alt="image" src="https://github.com/user-attachments/assets/b70f1364-a291-4105-b202-399b059bb8e1" />
 <img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/d4f3a321-c8ec-474e-9a43-c347febfcc25" />
+<img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/e2faa69e-d911-4868-b1ac-672c4607753e" />
+<img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/d465ccf6-8fa5-4c94-9e50-404937657176" />
+<img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/4369c5d1-bdfc-4fa7-a5be-7152a6608fb8" />
+<img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/10966d4f-ea62-4c20-9f3b-675e9be4024c" />
+<img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/a221f088-f5e6-4d41-a2f1-f41237089ae2" />
+
+
+
+
+
+
 
 
 
