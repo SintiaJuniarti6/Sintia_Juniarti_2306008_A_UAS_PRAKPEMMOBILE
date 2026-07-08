@@ -200,20 +200,9 @@ Untuk melakukan pengujian aplikasi:
 ---
 
 # 📸 Screenshot Aplikasi
-<img width="626" height="1078" alt="image" src="https://github.com/user-attachments/assets/c1c1636f-0d56-4ebc-a0cf-ca7585eab7e2" />
+<img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/c1c1636f-0d56-4ebc-a0cf-ca7585eab7e2" />
 
 
-Tambahkan screenshot minimal:
-
-- Home
-- Detail Produk
-- Keranjang
-- Checkout
-- Riwayat Pesanan
-- Wishlist
-- Profile
-
-Contoh:
 
 ```text
 screenshots/
